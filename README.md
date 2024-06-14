@@ -24,6 +24,8 @@ Related videos:
 - Pitch Roll Indicator: https://youtu.be/S_ppdbb0poQ
 - Custom Shifter Knob with Display: https://www.youtube.com/playlist?list=PLjQRaMdk7pBb6r6xglZb92DGyWJTgBVaV
 
+_This video is sponsored by PCBway. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBway! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
+
 ![THUMB_diy_boost_pressure_gauge_B](https://github.com/upiir/custom_boost_gauge_esp32/assets/117754156/e899b691-7cfe-4f21-853d-03f3aa8d6c6b)
 
 
