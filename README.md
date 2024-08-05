@@ -13,7 +13,7 @@ Links from the video:
 - Display without enclosure: https://s.click.aliexpress.com/e/_DEe0YJv
 - Display documentation: https://www.waveshare.com/wiki/ESP32-S3-LCD-1.28
 - Reddit post: https://www.reddit.com/r/arduino/comments/1bsl0l5/waveshare_esp32s3_128in_lcd_display_with_wifi/
-- Online image converter (to C code): http://www.rinkydinkelectronics.com/_t_doimageconverter565.php
+- Online image converter (to C code): http://www.rinkydinkelectronics.com/t_imageconverter565.php
 - Adapter board (1.27mm to 2.54mm Pitch): https://s.click.aliexpress.com/e/_Dc74hqb
 - Image2cpp (convert array to image): https://javl.github.io/image2cpp/
 - Photopea (online graphics editor like Photoshop): https://www.photopea.com/
